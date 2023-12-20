@@ -1,59 +1,25 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
+# Cross Platform Activity
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Start the Metro Server
+This project is a part of the ITWM106 course. A cross platform mobile app developement using react native. 
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Description
 
-To start Metro, run the following command from the _root_ of your React Native project:
+This project aims to showcase the use of React Native to build a mobile application that can run on multiple platforms, including iOS and Android.
 
-```bash
-# using npm
-npm start
+### Features/Screens
+- Screen 1 -Home
+- Screen 2 - MSEUF Mission, Vision, and Goal
+- Screen 3 - The MSEUF Story
 
-# OR using Yarn
-yarn start
-```
+## Getting Started 
 
-## Step 2: Start your Application
+### Prerequisites
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Before you begin, ensure you have met the following requirements:
+- Node.js installed on your development machine.
+- npm(Node Package Manager) or Yarn installed.
+- Basic knowledge of React Native
 
 ## Congratulations! :tada:
 
